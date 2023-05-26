@@ -1,6 +1,6 @@
 // link with API ScrollReveal
 ScrollReveal({
-  reset: false,
+  reset: true,
   distance: "60px",
   duration: 1800,
   delay: 100,
